@@ -1,6 +1,6 @@
 # synthetic_synesthetic
 
-Chromesthesia is a form of synesthesia that involves sound-color pairings. This repository contains data collected from an individual with chromesthesia, visualizations of this data, and a model predicting song-color pairings.
+Chromesthesia is a form of synesthesia that involves sound-color pairings. These pairings differ between individuals but are often consistent and systematic within a synesthete. This repository contains data collected from an individual with chromesthesia, visualizations of this data, and a model predicting song-color pairings.
 
 #
 
